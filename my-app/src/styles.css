@@ -1,0 +1,10 @@
+@keyframes coolMoveBro {
+    from{
+      color: blue;
+      font-size: 100px;
+    }
+    to{
+      color: red;
+      font-size: 150px;
+      transform: rotate(90deg);
+    }
